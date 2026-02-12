@@ -1,11 +1,10 @@
 ---
 name: competitive-greatness-preparation
-description: Prepare for high-stakes moments by structuring practice to simulate pressure,
-  building confidence through thorough preparation using John Wooden's methodology.
+description: Prepare for high-stakes moments by structuring practice to simulate pressure, building confidence through thorough preparation using John Wooden's methodology.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - competitive-greatness-preparation
 - transformation
