@@ -3,7 +3,7 @@ name: competitive-greatness-preparation
 description: Prepare for high-stakes moments by structuring practice to simulate pressure, building confidence through thorough preparation using John Wooden's methodology.
 license: MIT
 metadata:
-  version: 1.0.3633
+  version: 1.0.3634
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
